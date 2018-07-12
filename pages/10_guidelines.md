@@ -44,7 +44,8 @@ On the other hand, the channels below are considered more casual and unmoderated
 * **Do not** spam any channel for any reason.
 * **Do not** make political comments in channels besides #politics.
 * **Do not** use this channel as a platform for any illegal operations.
-* **Do not** post malicious links or content with the intention of infecting others. 
+* **Do not** post malicious links or content with the intention of infecting others.
+* **Do not** make threats, physical or otherwise.
 * Please **Do not** beg for donations / money.
 
 Last but not least, please try to be kind and considerate to each other - remember that we are trying to build a productive and collaborative community, let’s all learn something together.
@@ -56,7 +57,7 @@ Last but not least, please try to be kind and considerate to each other - rememb
 * **Definitely no** box names followed by spoilers.
 * Your message has been deleted because you broke one or more rules. 
 * Ask better questions about tools and techniques; learn something new rather than how to solve that particular box.
-* **No** unsolicited DMs for hint or spoilers.
+* **No** unsolicited DMs for hints or spoilers.
 
 ## Certification Study Rules
 * **Do not** break any rules belonging to the certification's vendor.
