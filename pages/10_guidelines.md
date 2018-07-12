@@ -51,9 +51,9 @@ Last but not least, please try to be kind and considerate to each other - rememb
 
 ## Hack The Box Rules
 * https://www.hackthebox.eu/home/rules always applies 
-* No spoilers.
-* No box names.
-* Definitely no box names followed by spoilers.
+* **No** spoilers.
+* **No** box names.
+* **Definitely no** box names followed by spoilers.
 * Your message has been deleted because you broke one or more rules. 
 * Ask better questions about tools and techniques; learn something new rather than how to solve that particular box.
 * **No** unsolicited DMs for hint or spoilers.
