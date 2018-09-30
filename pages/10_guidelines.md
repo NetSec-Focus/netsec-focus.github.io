@@ -88,4 +88,5 @@ If you have any questions or concerns, feel free to contact one of the moderator
 * rasta_mouse
 
 ## Offshore Labs
-* nibsec
+* progentator
+* mrb3n
