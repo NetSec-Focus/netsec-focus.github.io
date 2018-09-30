@@ -3,6 +3,8 @@ layout: post
 title:  "Crypto 101: The Basics"
 date:   2017-06-09 19:00:00 +0200
 categories: crypto tutorial
+author: vcsec
+tags: [cryptography, tls, live stream]
 ---
 
 Well I finally got my finger out and put together the first in a series of talks on crypto. Thank you for those that joined live and for the subsequent feedback.
@@ -13,4 +15,4 @@ The whole recording is [here](https://youtu.be/fd4u6GseRzc) and I will be making
 
 Next time we'll be working our way further in into our TLS ciphersuite and will be looking at symmetric encryption. Exciting.
 
-Any questions, feedback, abuse: hit me on slack or twitter @TunnyTraffic.
+Any questions, feedback, abuse: hit me on slack or twitter [@TunnyTraffic](https://twitter.com/TunnyTraffic).
