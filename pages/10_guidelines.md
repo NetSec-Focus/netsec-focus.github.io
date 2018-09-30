@@ -3,6 +3,7 @@ layout: page
 title: Guidelines
 permalink: /guidelines/
 navigation_weight: 10
+tags: [mattermost, guidelines, rules, moderators, admins]
 ---
 
 First and foremost, NSF is a community meant for Cybersecurity / IT professionals to share knowledge and experiences. To facilitate this effort there are certain chat channels that are meant for professional discussion only. And others that have less moderation in which users are free to speak their minds.
@@ -75,10 +76,7 @@ If you have any questions or concerns, feel free to contact one of the moderator
 * cyrus
 * daddy
 * dschalla
-* dsop
-* johnm
 * kalabaster
-* pagan
 * vcsec
 
 ## HTB
@@ -88,3 +86,6 @@ If you have any questions or concerns, feel free to contact one of the moderator
 
 ## Rastalabs
 * rasta_mouse
+
+## Offshore Labs
+* nibsec
