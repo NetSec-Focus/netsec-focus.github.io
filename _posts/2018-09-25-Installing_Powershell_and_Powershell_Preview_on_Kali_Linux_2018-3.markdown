@@ -252,6 +252,6 @@ If you have any questions or issues trying to install PowerShell on Kali please 
 
 ### References
 
-GitHub Issue: https://github.com/PowerShell/PowerShell/issues/7719
+GitHub Issue: https://github.com/PowerShell/PowerShell/issues/7719)
 
 Kali: https://bugs.kali.org/view.php?id=4958
