@@ -21,3 +21,7 @@ Gemfile.lock
 .gems
 jekyll-theme-type-on-strap.gemspec
 node_modules/*
+
+# Vagrant files
+VagrantFile
+.vagrant
