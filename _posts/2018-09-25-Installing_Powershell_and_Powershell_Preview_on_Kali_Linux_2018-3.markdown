@@ -11,7 +11,7 @@ https://www.kali.org/tutorials/installing-PowerShell-on-kali-linux/
 
 If you follow the instructions you will notice that we need another package to install PowerShell: 
 
-root@kali:~# apt -y install PowerShell
+```root@kali:~# apt -y install PowerShell
 Reading package lists... Done
 Building dependency tree
 Reading state information... Done
@@ -23,7 +23,7 @@ The following information may help to resolve the situation:
 
 The following packages have unmet dependencies:
 PowerShell: Depends: libcurl3 but it is not going to be installed
-E: Unable to correct problems, you have held broken packages.
+E: Unable to correct problems, you have held broken packages.```
 
 Currently Kali Linux 2018.3 already contains libcurl4 and if we try to install libcurl3 you should see something like this: 
 
