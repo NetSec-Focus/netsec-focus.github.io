@@ -147,14 +147,7 @@ IT’s Time! Today is the day you take your exam. Now do not rush everything you
 
 Before the last hour till you start your OSCP exam, login into the webcam program and screen connect program to make sure that those applications are working. I logged in 30mins before my OSCP exam and they were not able to see my webcam on their end for the exam. I had to work with offsec to troubleshoot this issue until we figured out another resolution. By the time we figured out a resolution offsec sent me my exam VPN connection pack and I losted 30mins of my exam time because of it. 
 
-My attack strategy going forward was the following: 
-•	Pwn the BOF (25 points) 
-•	Pwn the 10 point box
-•	Pwn the 20 point box
-•	Pwn the 2nd 20 point box
-•	Pwn the 25 point box (If I have enough time). 
-
-My attack strategy actually failed because at certain times since I was unable to get anything working. I was worried that I was going to fail but during those times I was reminded by someone and I also had a lot of support from the infosec community rooting for me to pass. I was not ready to quit that easy. There was one person that mentioned this tip to me about the exam that I will always remember: 
+My attack strategy that I planned actually failed because at certain times since I was unable to get anything working. I was worried that I was going to fail but during those times I was reminded by someone and I also had a lot of support from the infosec community rooting for me to pass. I was not ready to quit that easy. There was one person that mentioned this tip to me about the exam that I will always remember: 
 “you're going to run out of ideas before you run out of time. take breaks. walk away for a bit. dont be afraid to go to sleep for a few hours, especially if youre stuck” -0xdf
 
 With this I started taking 2-3min break and sometimes 15mins breaks as well to clear my head. When you leave your room you will also need to notify the proctor when you are leaving and when you return so that they can document it. Also stay hydrated during the exam. I had two gallons next to my desk to fill up with water to keep my brain working throughout the entire time of the exam. After 24 hours I was able to get enough points to pass the exam and offsec did not give me my extra 30mins that I lossed during the exam. I closed my webcam session and also the screenconnect program and got a cup of coffee to celebrate. 
