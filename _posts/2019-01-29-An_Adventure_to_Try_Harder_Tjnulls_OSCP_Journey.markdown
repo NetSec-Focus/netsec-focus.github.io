@@ -1,9 +1,10 @@
+---
+layout: post
 title:  "An Adventure to Try Harder: Tjnulls OSCP Journey"
 date:   2019-01-29
 categories: OSCP Review
 tags: [Offensive Security, OSCP, PWK. Kali]
 author: tjnull
-
 ---
 
 ### Dedication: 
