@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Adventure to Try Harder: Tjnulls OSCP Journey"
+title:  "An Adventure to Try Harder: Tjnull's OSCP Journey"
 date:   2019-01-29
 categories: OSCP Review
 tags: [Offensive Security, OSCP, PWK. Kali]
@@ -10,16 +10,20 @@ author: tjnull
 ### Dedication: 
 Before I start discussing about my journey, I have a few people that I want to dedicate this blog post. 
 
-First, I want to dedicate this post too is my parents and my sisters.  Thank you for giving me the time to focus on this and also to prepare for this journey. I know during my journey I did not get to spend much time with you since I was pretty much on the computer every single day just prepping for this. I cannot thank you enough for supporting me and to keep pushing me to follow my dream and I will always be there for you. 
+First, I want to dedicate this post too is my parents and my sisters. Thank you for giving me the time to focus on this and also to prepare for this journey. I know during in my journey I did not get to spend much time with you since I was pretty much on the computer every single day just prepping for this. I cannot thank you enough for supporting me and to keep pushing me to follow my dream. I will always be here for you. 
 
-Second, I want to dedicate this post to my girlfriend. Thank you for being supportive and for letting me rant about my issues or when I got super happy to get a shell on a machine. I know I sacrificed a lot of time where we could have gone on dates or to be with each other but you gave the space and time I needed to complete this. I love you very much and this journey is just the beginning. 
+Second, I want to dedicate this post to my girlfriend. Thank you for being supportive and for letting me rant about my issues or when I got super happy to get a shell on a machine. I know I sacrificed a lot of time where we could have gone on dates or to be with each other but you gave the space and time I needed to complete this. I love you very much and this journey is only just the beginning. 
 
-Lastly, I want to thank the InfoSec community. A lot of you reached out to me in so many ways to check up on me and to support me through this journey. I know there were times where I even ranted to you about my journey and you were there to comfort me. I could list every single person that has reached out to me during this journey and this post would just be endless on it! Thank you for inspiring and also motivating me to learn more. I hope that I can always help someone in this field to learn something and be able to provide support when they are need. You know who you are and you should give your self a pat on the back :D!
+Lastly, I want to thank the InfoSec community. A lot of you reached out to me in so many ways to check up on me and to support me through this journey. I know there were times where I even ranted to you about my journey and you were there to comfort me. I could list every single person that has reached out to me during this journey and this post would just be endless on it! Thank you for inspiring and also motivating me to learn more. I hope that I can always help someone in this field to learn something and be able to provide support when they are need. 
+
+You know who you are and you should give your self a pat on the back :D!
+
 We live in a crazy time and the InfoSec world is only going to continue to grow at a rapid pace. 
 
 Now here what you all have been waiting for…
 
 ### Motivation to take OSCP:
+
 When I was a senior in high school My instructor for my Security+ course gave me my first hacking cd (Backtrack 5r3) and a Backtrack Cookbook. Throughout the class we would go through a chapter of the book each week and we do hands on labs/exercises to identify security issues or vulnerabilities. I fell in love with it and I knew becoming a hacker or a pentester was going to be my career for me. In high school I had my A+, Net+, and my CCNA but I was always curious about what pentesting certifications were out there which led me to OSCP. After looking at the syllabus I knew I was not ready but I was destined to get this certification on the first try for preparing for it. 
 
 ### Previous Experience:
@@ -28,6 +32,7 @@ I’ve been in the IT/Cyber Security Field since 2012 (If you count education ex
 
 One thing that I enjoyed in high school and throughout college was competing in cyber competitions like Cyber Patriot and National Cyber league. These competitions really help me get more engaged in cyber security and I still enjoy competing today. In the past 5 years I have competed in 205 competitions including MACCDC, ALCCDC, Global Cyberlympics, and my favorite one of all SANS NETWARS. I won my first my time competing at SANS Netwars and was given the opportunity to compete in the SANS Tournament of Champions and it was incredible. 
 With my work experience, trainings, and personal hobbies I was able to obtain a lot of exposure to the field and improve my skillsets which helped me through my journey. 
+
 •	Operating Systems: Windows, Linux
 •	Windows Server Administration
 •	Virtualization: Vmware, Citrix, Proxmox
@@ -53,13 +58,16 @@ SANS 573: Automating Information Security with Python
 SANS 564: Red Team Operations and Threat Emulation
 Derbycon 2018 Training: Windows Attack and Defense
 Elearnsecurity: Penetration Testing Professional v5 
+
 (I have to thank my employer currently for the SANS Courses because they are very supportive for my education and helping me to continue to learn more about this field.)
 
 ### Pre-Requisites for PWK: 
 
 From my perspective I was nervous at first reading the pre-requisites for taking the OSCP course but I will say this don’t let them throw you off really. Even when it states “Familiarity of Bash scripting with basic Python or Perl a plus” will definitely help you but it is not really a requirement. I am not saying you shouldn’t learn python, perl, or ruby. What I am trying to say is as long as you have an understanding of the programing language and you can understand the scripts, then you will be fine. 
 
-As practice for fun I would take exploits online (Metasploit Modules for sure!) and write them in another programming language. For instance, take an exploit that is written in python and write it in ruby. Now there are many ways you can learn more about programming online as there are so many resources available online to use! You just have to find which material will work for you. Personally, being hands on writing scripts was the best way I got to learn more about python. In the SANS 573 class Mark Baggett created all of the lab assignments using pywars to make us write the proper scripts to solve the python challenges he created. There are so many online resources that can help you prepare for it. Here are some resources that I used to help me prepare for the PWK labs and the OSCP Exam. 
+As practice for fun I would take exploits online (Metasploit Modules for sure!) and write them in another programming language. For instance, take an exploit that is written in python and write it in ruby. Now there are many ways you can learn more about programming online! You just have to find which material or resources will work for you. Personally, being hands on writing scripts was the best way I got to learn more about python, ruby, and bash. In the SANS 573 class Mark Baggett created all of the lab assignments using pywars to make us write the proper scripts to solve the python challenges he created. 
+
+Here are some resources that I used to help me prepare for the PWK labs and the OSCP Exam. 
 
 ### Abatchy’s noob friendly guide to prepare for OSCP:
 
@@ -74,10 +82,13 @@ Link to the OSCP-Like Vulnhub Boxes: https://docs.google.com/spreadsheets/d/1dwS
 
 ### Hackthebox: 
 
-Hackthebox is a fantastic online platform allowing members to test their penetration testing skills. There are so many challenges and machines that get released on a weekly basis. The best part is that it is free to the community! You need to pass the first challenge to obtain an invite code in order to play with their challenges. If you get VIP access you can be able to go through a large amount of the retire boxes as well. If you cannot afford VIP access do not worry because IppSec has a fantastic YouTube channel where he does full on walkthrough’s showing you how to obtain user and root access on the system. Each week he usually tries to add some new content for each box and it really helped me when he did when I was in the PWK labs. 
+Hackthebox is a fantastic online platform allowing members to test their penetration testing skills. There are so many challenges and machines that get released on a weekly basis. The best part is that it is free to the community! You need to pass the first challenge to obtain an invite code in order to play with their challenges. If you get VIP access you can be able to go through a large amount of the retire boxes as well. 
+
+If you cannot afford VIP access do not worry because IppSec has a fantastic YouTube channel where he does full on walkthrough’s showing you how to obtain user and root access on the system. Each week he usually tries to add some new content for each box and it really helped me when he did when I was in the PWK labs. 
  
 As of January 29, 2019, here is a list of HacktheBox machines that are OSCP Like: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159 
 Link to Ippsec youtube playlist: https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf 
+
 If there is anything that you should focus on to be preparing yourself to start the PWK is making sure you have the amount of time you will need to invest into the labs. Seriously, I managed my time in the labs and would spend at least 4-5 hours a on weekday in the lab and over 5 hours on the weekend for sure. Make sure you talk to your family, girlfriend, boyfriend, friends, or anyone else to let them know about what you are going to be doing for the next 30, 60, or 90 days! Trust me I had to remind my father a few times about what I was doing as he would yell at me to get off of the computer XD. The total amount of time I dedicated to the lab and the exam was exactly 212 hours. As long as you can dedicate 5 hours per day or 20 hours per week to study you should do fine in the labs. 
 
 ### The 90-day journey for me…PWK-Course Time!
@@ -94,9 +105,12 @@ I did the documentation for this to obtain the extra 5 points since it could com
 
 ### PWK Lab Network:
 
-Now comes the lab network! This part of the course is the best part in my opinion and I got extremely addicted to it. Over 50 lab machines in 3 separate networks (Public, IT, Dev, and Admin) that you get to hack…let the fun begin! I spent a total of 127 hours in the PWK Lab network and I was able to pwn the entire lab network in 28 days. The labs are super addicting for sure because each box has its own range of difficulty that can be extremely easy to the point where you can get extremely frustrated. I remember owning 17 boxes in 14 hours for one day and then getting stuck on a system in the admin network for 3 days straight. Each machine will test your ability to from understanding the lessons taught from the course content but even your research ability as well. This is where you get to build your own methodology when you attack these machines and remember everyone has their own different methodology. In addition, your ability to google-fu will help you tremendously here to identify new techniques, tools, understanding services, and learning more about the operating systems itself. After you own a machine make sure you document everything you did to obtain a shell or even how you priv esc to obtain a full shell. You will realize that there is not just one way to own a machine as each machine in the PWK can have multiple attack vectors. 
+Now comes the lab network! This part of the course is the best part in my opinion and I got extremely addicted to it. Over 50 lab machines in 3 separate networks (Public, IT, Dev, and Admin) that you get to hack…let the fun begin! I spent a total of 127 hours in the PWK Lab network and I was able to pwn the entire lab network in 28 days. The labs are super addicting for sure because each box has its own range of difficulty that can be extremely easy to the point where you can get extremely frustrated. I remember owning 17 boxes in 14 hours for one day and then getting stuck on a system in the admin network for 3 days straight. 
+
+Each machine will test your ability to from understanding the lessons taught from the course content but even your research ability as well. This is where you get to build your own methodology when you attack these machines and remember everyone has their own different methodology. In addition, your ability to google-fu will help you tremendously here to identify new techniques, tools, understanding services, and learning more about the operating systems itself. After you own a machine make sure you document everything you did to obtain a shell or even how you priv esc to obtain a full shell. You will realize that there is not just one way to own a machine as each machine in the PWK can have multiple attack vectors. 
 
 Things to keep in mind when you are attempting the lab network: 
+
 •	Enumerate Enumerate Enumerate! (Port scan (UDP Scan as well!), version scan, OS scan, web scan, research, etc)
 •	Understand the purpose of the system (What does it do?, Who uses it?, Why was it created?)
 •	Documenting your steps will help you for sure as you can review them and they may come in handy for another machine you are working on. I used OneNote for Windows 10 for my documentation and it was fantastic to use. My notes were also synced to the cloud so I did not have to worry about losing them and I had the ability to review them from multiple devices if needed.
@@ -154,7 +168,9 @@ Once I sent it to them I had to wait for offsec to send me a “Acknowledgement 
 
 ### Final Thoughts: 
 
-I have to say my OSCP journey was one the most fun, technically challenging, and absolute amazing experience of my life. I am very glad that I started it last year and was able to start the new year with being OSCP certified. I just wish I did not put it off as much as I did even though my employer gave me a lot of SANS courses and other trainings to prep for it. As you can already tell I put an extreme amount of effort into my study time then I did in the entire course alone. I now understand why Offsec uses the motto “Try Harder” because in honesty that is what you have to do to get through the labs and the exam. No matter what happens never give up! If you are stuck or are having issues take a step back think about what you have tried. If my journey gave you some advice and motivation to take the OSCP then I wish you the best on the journey ahead. It is not an easy exam but work hard and you will certainly be rewarded. If you do not think you are ready for the course do not worry or even stress about it. Remember to look over the resources I posted earlier to help prepare for it.
+I have to say my OSCP journey was one the most fun, technically challenging, and absolute amazing experience of my life. I am very glad that I started it last year and was able to start the new year with being OSCP certified. I just wish I did not put it off as much as I did even though my employer gave me a lot of SANS courses and other trainings to prep for it. As you can already tell I put an extreme amount of effort into my study time then I did in the entire course alone. I now understand why Offsec uses the motto “Try Harder” because in honesty that is what you have to do to get through the labs and the exam.
+
+No matter what happens never give up! If you are stuck or are having issues take a step back think about what you have tried. If my journey gave you some advice and motivation to take the OSCP then I wish you the best on the journey ahead. It is not an easy exam but work hard and you will certainly be rewarded. If you do not think you are ready for the course do not worry or even stress about it. Remember to look over the resources I posted earlier to help prepare for it.
 
 ### Future Plans?
 
@@ -162,9 +178,10 @@ I have to say my OSCP journey was one the most fun, technically challenging, and
 
 ### Conclusion: 
 
-I certainly hope you enjoyed reading my blog. I know someone is going too see some typos in here but in the end we are all not perfect so :D. Not to mention I covered a lot of things but that is what I do in general really. DETAILS DETAILS DETAILS!
+I certainly hope you enjoyed reading my exeperience with OSCP. I know someone is going too see some typos in here but in the end we are all not perfect so :D. Not to mention I covered a lot of things but that is what I do in general really. DETAILS DETAILS DETAILS!
 
 If you wish to find me, I am usually attending security conference for fun to learn more about InfoSec from the community or competing in CTF’s for fun as well! You can find me on Netsecfocus and on Twitter as well. Thank you again for reading this and I certainly hope that you enjoyed it 😊. 
+
 
 -Tjnull
 Twitter: ([@TJ_Null](https://twitter.com/tj_null))
