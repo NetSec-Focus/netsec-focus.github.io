@@ -5,8 +5,7 @@ permalink: /guidelines/
 navigation_weight: 10
 ---
 
-First and foremost, NSF is a community meant for Cybersecurity / IT professionals to share knowledge and experiences. To facilitate this effort there are certain chat channels that are meant for professional discussion only and content should be on-topic and safe for work. Other channels offer a that have less moderation in which users are free to speak their minds.
-
+First and foremost, NSF is a community meant for Cybersecurity/IT professionals and enthusiasts to share knowledge and experiences. To facilitate this effort there are certain chat channels that are meant for professional discussion only and content should be on-topic and safe for work. Off-Topic channels have a softer approach to moderation in which users are free to speak their minds within the bounds of the general rules.
 
 ## Channel Guidelines
 In the following channels: please refrain from posting memes, inappropriate content, trolling, excess banter, etc.
@@ -40,6 +39,7 @@ On the other hand, the channels below are considered more casual with light-touc
 
 ## General Rules
 * Keep all discussions in their correct channels.
+* Be civil.
 * **Do not** post content that is pornographic or graphic in nature.
 * **Do not** directly link to any "pirated" materials.
 * **Do not** spam any channel for any reason.
@@ -52,14 +52,18 @@ On the other hand, the channels below are considered more casual with light-touc
 Last but not least, please try to be kind and considerate to each other - remember that we are trying to build a productive and collaborative community, let’s all learn something together.
 
 ## Hack The Box Rules
+
+This looks like a wall of text but it is designed to give members the most out of their time, to learn, and to progress in HackTheBox:
+
 * https://www.hackthebox.eu/home/rules always applies 
 * **No** direct spoilers.
 * **No** unsolicited DMs for hints or spoilers.
-* Try to put some effort into your questions. You're asking people for their time and expertise, show some respect by trying things first and outlining your question. Language can be a barrier for those where English isn't their mother tongue but try to explain the problem as well you can.
-* Please do not 'ask to ask'. This is where someone asks 'Does anyone know about xyz'. Rather than say 'Can someone answer a question about python?'try 'How do I specifiy endianess when packing structs in Python?'
+* Try to put some effort into your questions. You're asking people for their time and expertise; show some respect by trying things first and outlining your question. Try 'Are there any good tools for sub-domain enumeration' or 'Can someone review my second order blind SQLi?'
+* Language can be a barrier for those where English isn't their mother tongue but try to explain the problem as well you can.
+* Please do not 'ask to ask'. This is where someone asks 'Does anyone know about xyz'. Rather than say 'Can someone answer a question about python?' try 'How do I specifiy endianess when packing structs in Python?'
 * Discussion on retired boxes is fair game
 * Don't spoil solutions but you can ask for help on boxes or challenges. This means you need to tread carefully. If you're stuck on a particular topic ask a question about that topic.
-* Enumerate. Enumerate. Google. Enumerate. Try things. Check what results you got. - again this isn't a rule change but it will help with the previous point.
+* Enumerate. Enumerate. Google. Enumerate. Try things. Check what results you got and Google some more.
 * Play nice, be helpful
 
 
@@ -70,7 +74,12 @@ Last but not least, please try to be kind and considerate to each other - rememb
     * **Do not give or ask for spoilers**.
     * Type **!oscprules** in #oscp for full rule listing.
 
+## Moderators
+
+Moderators are also held to account for their actions and are bound by the guidelines. We don't want to spend our time here telling anyone off, we're here to learn and help too. If members are found to be in breach of the guidelines will be warned and given a gentle push to remember the rules above. However we do take cheating very seriously and ask that members who witness attempts to cheat to report the incident to an a moderator.
+
 If you have any questions or concerns, feel free to contact one of the moderators listed below:
+
 ## NSF
 * cola
 * tim
@@ -87,3 +96,7 @@ If you have any questions or concerns, feel free to contact one of the moderator
 
 ## Rastalabs
 * rasta_mouse
+
+## Offshore Labs
+* progentator
+* mrb3n
