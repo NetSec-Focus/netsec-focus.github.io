@@ -33,7 +33,7 @@
     .site-title {
         float: left;
         font-weight: bold;
-        font-size: 1em;
+        font-size: 1.5em;
         line-height: 1.5;
     }
 
@@ -72,7 +72,7 @@
 }
 
 
-// To clear things when we float the element inisde nav and ul 
+// To clear things when we float the element inisde nav and ul
 .clear {
     *zoom: 1;
 
@@ -127,7 +127,7 @@
             margin: 0;
             opacity: 0;
             padding: 0;
-            
+
             /* fade out, then shrink */
             transition: opacity .25s,
                         font-size .5s .25s,

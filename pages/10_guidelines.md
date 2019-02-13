@@ -3,6 +3,7 @@ layout: page
 title: Guidelines
 permalink: /guidelines/
 navigation_weight: 10
+tags: [mattermost, guidelines, rules, moderators, admins]
 ---
 
 First and foremost, NSF is a community meant for Cybersecurity/IT professionals and enthusiasts to share knowledge and experiences. To facilitate this effort there are certain chat channels that are meant for professional discussion only and content should be on-topic and safe for work. Off-Topic channels have a softer approach to moderation in which users are free to speak their minds within the bounds of the general rules.

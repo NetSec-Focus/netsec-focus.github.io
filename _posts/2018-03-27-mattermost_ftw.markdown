@@ -3,6 +3,8 @@ layout: post
 title:  "Down with Slack. Mattermost FTW!"
 date:   2018-03-27 19:00:00 +0200
 categories: community
+tags: [mattermost, slack]
+author: braindeaddeveloper
 ---
 
 Many of you may already know this, but as of March 15, 2017 NetSecFocus decided to migrate our community to our own Mattermost server. There were a few reasons for this with the main reasons being message retention in Slack. At our volume messages were only lasting for a maximum of 10 hours which made it impossible to search for anything meaningful. Due to this and the impossibility of paying about $12k USD/month for Slack we decided to ditch it for something better.
