@@ -5,7 +5,7 @@ permalink: /guidelines/
 navigation_weight: 10
 ---
 
-First and foremost, NSF is a community meant for Cybersecurity / IT professionals to share knowledge and experiences. To facilitate this effort there are certain chat channels that are meant for professional discussion only. And others that have less moderation in which users are free to speak their minds.
+First and foremost, NSF is a community meant for Cybersecurity / IT professionals to share knowledge and experiences. To facilitate this effort there are certain chat channels that are meant for professional discussion only and content should be on-topic and safe for work. Other channels offer a that have less moderation in which users are free to speak their minds.
 
 
 ## Channel Guidelines
@@ -29,11 +29,12 @@ In the following channels: please refrain from posting memes, inappropriate cont
 * **~Red Team** - Offensive security, pentesting, redteam, and social engineering
 * **~Vulnhub & CTF** -  CTFs, Vulnhub, boot2root challenges
 * **~Windows** - General chat about anything Windows
+* **~Wizard-Labs** - All things labs.wizard-security.net
 
-On the other hand, the channels below are considered more casual and unmoderated. People are free to speak as they wish here as long as they do not violate the **General Rules**. We're a big believer in free speech, so please respect everyone's right to express themselves. **Note: These are not default channels.**
+On the other hand, the channels below are considered more casual with light-touch moderation. People are free to speak as they wish here as long as they do not violate the **General Rules**. We're a big believer in free speech, so please respect everyone's right to express themselves. **Note: These are not default channels.**
 
 * **~Entertainment** - Music, movies, tv shows, video games, and more
-* **~Offtopic** - Anything goes
+* **~Lounge** - Chill area for general chit-chat
 * **~Politics** - The only place for political discussion
 * **~Sysadmin** - Sysadmin workplace musings
 
@@ -52,12 +53,15 @@ Last but not least, please try to be kind and considerate to each other - rememb
 
 ## Hack The Box Rules
 * https://www.hackthebox.eu/home/rules always applies 
-* **No** spoilers.
-* **No** box names.
-* **Definitely no** box names followed by spoilers.
-* Your message has been deleted because you broke one or more rules. 
-* Ask better questions about tools and techniques; learn something new rather than how to solve that particular box.
+* **No** direct spoilers.
 * **No** unsolicited DMs for hints or spoilers.
+* Try to put some effort into your questions. You're asking people for their time and expertise, show some respect by trying things first and outlining your question. Language can be a barrier for those where English isn't their mother tongue but try to explain the problem as well you can.
+* Please do not 'ask to ask'. This is where someone asks 'Does anyone know about xyz'. Rather than say 'Can someone answer a question about python?'try 'How do I specifiy endianess when packing structs in Python?'
+* Discussion on retired boxes is fair game
+* Don't spoil solutions but you can ask for help on boxes or challenges. This means you need to tread carefully. If you're stuck on a particular topic ask a question about that topic.
+* Enumerate. Enumerate. Google. Enumerate. Try things. Check what results you got. - again this isn't a rule change but it will help with the previous point.
+* Play nice, be helpful
+
 
 ## Certification Study Rules
 * **Do not** break any rules belonging to the certification's vendor.
@@ -73,12 +77,7 @@ If you have any questions or concerns, feel free to contact one of the moderator
 * tjnull
 * braindeaddeveloper
 * cyrus
-* daddy
 * dschalla
-* dsop
-* johnm
-* kalabaster
-* pagan
 * vcsec
 
 ## HTB
