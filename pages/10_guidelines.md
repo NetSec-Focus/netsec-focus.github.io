@@ -30,12 +30,24 @@ In the following channels: please refrain from posting memes, inappropriate cont
 * **~Windows** - General chat about anything Windows
 * **~Wizard-Labs** - All things labs.wizard-security.net
 
+# Certificate and Pro-labs Channels
+
+The purpose of these channels is focused study for Offensive Security certificates and HackTheBox Pro-labs and are available for registered students only.
+* **~OSCP** - Offensive Security PWK
+* **~OSCE** - Offensive Security CTP
+* **~Offshore** - HackTheBox Offshore lab 
+* **~Rasta-Labs** - HackTheBox Rastalabs
+
+# Off-Topic Channels
+
 On the other hand, the channels below are considered more casual with light-touch moderation. People are free to speak as they wish here as long as they do not violate the **General Rules**. We're a big believer in free speech, so please respect everyone's right to express themselves. **Note: These are not default channels.**
 
 * **~Entertainment** - Music, movies, tv shows, video games, and more
 * **~Lounge** - Chill area for general chit-chat
 * **~Politics** - The only place for political discussion
 * **~Sysadmin** - Sysadmin workplace musings
+
+
 
 ## General Rules
 * Keep all discussions in their correct channels.
