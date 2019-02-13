@@ -89,7 +89,7 @@ This looks like a wall of text but it is designed to give members the most out o
 
 ## Moderators
 
-Moderators are also held to account for their actions and are bound by the guidelines. We don't want to spend our time here telling anyone off, we're here to learn and help too. If members are found to be in breach of the guidelines will be warned and given a gentle push to remember the rules above. However we do take cheating very seriously and ask that members who witness attempts to cheat to report the incident to an a moderator.
+Moderators are also held to account for their actions and are bound by the guidelines. We don't want to spend our time here telling anyone off, we're here to learn and help too. Members found to be in breach of the guidelines will be warned and given a gentle push to remember the rules above. However we do take cheating very seriously and ask that members who witness attempts to cheat to report the incident to an a moderator.
 
 If you have any questions or concerns, feel free to contact one of the moderators listed below:
 
