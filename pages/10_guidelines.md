@@ -30,7 +30,7 @@ In the following channels: please refrain from posting memes, inappropriate cont
 * **~Windows** - General chat about anything Windows
 * **~Wizard-Labs** - All things labs.wizard-security.net
 
-# Certificate and Pro-labs Channels
+### Certificate and Pro-labs Channels
 
 The purpose of these channels is focused study for Offensive Security certificates and HackTheBox Pro-labs and are available for registered students only.
 * **~OSCP** - Offensive Security PWK
@@ -38,7 +38,7 @@ The purpose of these channels is focused study for Offensive Security certificat
 * **~Offshore** - HackTheBox Offshore lab 
 * **~Rasta-Labs** - HackTheBox Rastalabs
 
-# Off-Topic Channels
+### Off-Topic Channels
 
 On the other hand, the channels below are considered more casual with light-touch moderation. People are free to speak as they wish here as long as they do not violate the **General Rules**. We're a big believer in free speech, so please respect everyone's right to express themselves. **Note: These are not default channels.**
 
