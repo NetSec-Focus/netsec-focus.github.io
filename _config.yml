@@ -16,8 +16,8 @@ theme_settings:
 
   # Header and footer text
   header_text: |
-    NetSec Focus is a community for Cybersecurity/IT professionals and enthusiasts to learn and share experiences. 
-    We host chat channels for discussion on a wide range of topics including: Red/Blue teaming, HackTheBox, OffSec, & many more 
+    NetSec Focus is a community for Cybersecurity/IT professionals and enthusiasts to learn, share experiences, socialise and help each other develop. 
+    We host chat channels for discussion on a wide range of topics including: Red/Blue teaming, HackTheBox, cert study, RE & Exploit dev, & many more 
     
     Click 'Chat' in the navigation bar to join 5000+ security professionals and students on our Mattermost server
   header_text_feature_image: assets/img/pexels/triangular.jpeg
