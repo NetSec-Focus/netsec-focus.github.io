@@ -15,7 +15,7 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
+  header_text: > Click 'Join' in the navigation bar to join 5000+ security professionals and students on our Mattermost server
 
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
@@ -41,7 +41,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "netsecfocus"
   vimeo:
   wordpress:
   youtube:
@@ -49,7 +49,7 @@ theme_settings:
   # Sharing options
   share_buttons:
     facebook:
-    twitter:
+    twitter: true
     google_plus:
     tumblr:
     pinterest:
