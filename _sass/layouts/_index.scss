@@ -2,6 +2,7 @@
 .call-out {
     @extend %padding-small;
     display: inline-block;
+    white-space: pre-wrap;
     width: 100%;
     height: 100%;
     font-size: 1.2em;
