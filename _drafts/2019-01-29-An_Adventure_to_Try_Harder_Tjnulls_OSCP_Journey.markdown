@@ -10,11 +10,11 @@ author: tjnull
 ### Dedication: 
 Before I start discussing about my journey, I have a few people that I want to dedicate this blog post. 
 
-First, I want to dedicate this post too is my parents and my sisters. Thank you for giving me the time to focus on this and also to prepare for this journey. I know during in my journey I did not get to spend much time with you since I was pretty much on the computer every single day just prepping for this. I cannot thank you enough for supporting me and to keep pushing me to follow my dream. I will always be here for you. 
+First, I want to dedicate this post to my parents and my sisters. Thank you for giving me the time to focus on this and also to prepare for this journey. I know during my journey I did not get to spend much time with you since I was pretty much on the computer every single day just prepping for this. I cannot thank you enough for supporting me and to keep pushing me to follow my dream. I will always be here for you. 
 
 Second, I want to dedicate this post to my girlfriend. Thank you for being supportive and for letting me rant about my issues or when I got super happy to get a shell on a machine. I know I sacrificed a lot of time where we could have gone on dates or to be with each other but you gave the space and time I needed to complete this. I love you very much and this journey is only just the beginning. 
 
-Lastly, I want to thank the InfoSec community. A lot of you reached out to me in so many ways to check up on me and to support me through this journey. I know there were times where I even ranted to you about my journey and you were there to comfort me. I could list every single person that has reached out to me during this journey and this post would just be endless on it! Thank you for inspiring and also motivating me to learn more. I hope that I can always help someone in this field to learn something and be able to provide support when they are need. 
+Lastly, I want to thank the InfoSec community. A lot of you reached out to me in so many ways to check up on me and to support me through this journey. I know there were times where I even ranted to you about my journey and you were there to comfort me. I could list every single person that has reached out to me during this journey and this post would just be endless! Thank you for inspiring and also motivating me to learn more. I hope that I can always help someone in this field to learn something and be able to provide support when they are need. 
 
 You know who you are and you should give your self a pat on the back :D!
 
@@ -28,7 +28,7 @@ When I was a senior in high school, my instructor for my Security+ course gave m
 
 ### Previous Experience:
 
-I’ve been in the IT/Cyber Security Field since 2012 (If you count education experience really). I started working as a depot repair technician fixing broken laptops and I hated it. After working there, I was offered to be a cyber lab technician for a community college that I graduated from. That place is where I learned so much more about cyber security because my co-worker and I had to spin up the entire program from the ground up…It was awesome! My coordinator would assign me with so many tasks which gave me the ability to learn more and to hone my skills. After two years I took another position to work for govt contractor as a SOC Analyst because the college was unable to hire me full time. I never left the college though because I was offered to be an adjunct professor and teach the Ethical Hacking class they offered. 
+I’ve been in the IT/Cyber Security Field since 2012 (If you count education experience really). I started working as a depot repair technician fixing broken laptops and I hated it. After working there, I was offered an opportunity to be a cyber lab technician for a community college that I graduated from. That place is where I learned so much more about cyber security because my co-worker and I had to spin up the entire program from the ground up…It was awesome! My coordinator would assign me with so many tasks which gave me the ability to learn more and to hone my skills. After two years I took another position to work for govt contractor as a SOC Analyst because the college was unable to hire me full time. I never left the college though because I was offered to be an adjunct professor and teach the Ethical Hacking class they offered. 
 
 One thing that I enjoyed in high school and throughout college was competing in cyber competitions like Cyber Patriot and National Cyber league. These competitions really help me get more engaged in cyber security and I still enjoy competing today. In the past 5 years I have competed in 205 competitions including MACCDC, ALCCDC, Global Cyberlympics, and my favorite one of all SANS NETWARS. I won my first my time competing at SANS Netwars and was given the opportunity to compete in the SANS Tournament of Champions and it was incredible. 
 With my work experience, trainings, and personal hobbies I was able to obtain a lot of exposure to the field and improve my skillsets which helped me through my journey. 
@@ -73,23 +73,23 @@ Here are some resources that I used to help me prepare for the PWK labs and the 
 
 https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob 
 
-A good list of resources that are open source you can use to prepare for the PWK/OSCP. Abatchy is also a good friend of mine and my next post will be guide like his but updated with more resources. Take the time to go through this material as the structure of his guide is based on the syllabus for the OSCP. 
+A good list of resources that are open source you can use to prepare for the PWK/OSCP. Abatchy is also a good friend of mine and my next post will be a guide like his but updated with more resources. Take the time to go through this material as the structure of his guide is based on the syllabus for the OSCP. 
 
 ### Vulnhub: 
-The only way to prepare yourself to get your hands dirty. Vulnhub contains a large collection of vulnerable machines that you can go through to test your skills. I posted a list on twitter a few days ago that contain OSCP-Like boxes that I used to prepare for the class. 	
+The only way to prepare yourself is to get your hands dirty. Vulnhub contains a large collection of vulnerable machines that you can go through to test your skills. I posted a list on twitter a few days ago that contain OSCP-Like boxes that I used to prepare for the class. 	
  
 Link to the OSCP-Like Vulnhub Boxes: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0 
 
 ### Hackthebox: 
 
-Hackthebox is a fantastic online platform allowing members to test their penetration testing skills. There are so many challenges and machines that get released on a weekly basis. The best part is that it is free to the community! You need to pass the first challenge to obtain an invite code in order to play with their challenges. If you get VIP access you can be able to go through a large amount of the retire boxes as well. 
+Hackthebox is a fantastic online platform allowing members to test their penetration testing skills. There are so many challenges and machines that get released on a weekly basis. The best part is that it is free to the community! You need to pass the first challenge to obtain an invite code in order to play with their challenges. If you get VIP access you can be able to go through a large amount of the retired boxes as well. 
 
 If you cannot afford VIP access do not worry because IppSec has a fantastic YouTube channel where he does full on walkthrough’s showing you how to obtain user and root access on the system. Each week he usually tries to add some new content for each box and it really helped me when he did when I was in the PWK labs. 
  
 As of January 29, 2019, here is a list of HacktheBox machines that are OSCP Like: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159 
 Link to Ippsec youtube playlist: https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf 
 
-If there is anything that you should focus on to be preparing yourself to start the PWK is making sure you have the amount of time you will need to invest into the labs. Seriously, I managed my time in the labs and would spend at least 4-5 hours a on weekday in the lab and over 5 hours on the weekend for sure. Make sure you talk to your family, girlfriend, boyfriend, friends, or anyone else to let them know about what you are going to be doing for the next 30, 60, or 90 days! Trust me I had to remind my father a few times about what I was doing as he would yell at me to get off of the computer XD. The total amount of time I dedicated to the lab and the exam was exactly 212 hours. As long as you can dedicate 5 hours per day or 20 hours per week to study you should do fine in the labs. 
+If there is anything that you should focus on while preparing to start PWK is to make sure you have enough time invest into the labs. Seriously, I managed my time in the labs and would spend at least 4-5 hours a on weekday in the lab and over 5 hours on the weekend for sure. Make sure you talk to your family, girlfriend, boyfriend, friends, or anyone else to let them know about what you are going to be doing for the next 30, 60, or 90 days! Trust me I had to remind my father a few times about what I was doing as he would yell at me to get off of the computer XD. The total amount of time I dedicated to the lab and the exam was exactly 212 hours. As long as you can dedicate 5 hours per day or 20 hours per week to study you should do fine in the labs. 
 
 ### The 90-day journey for me…PWK-Course Time!
 
@@ -98,16 +98,16 @@ So, you registered for the course great! You should have gotten your links for y
 •	A set of videos to go along with the course material
 •	VPN connection pack to access the PWK lab environment
 
-For the first few days I will admit the pdf can be dry with the content provided but if you watch the videos with it can be very enjoyable. The exercises were super fun as well and when you do them document them as well. When I finished the videos and manual, I went through some of the sections that I felt weak on to hone my skills on them. For instance, I went through the buffer overflow section many times just to understand the process of it. If you are just starting out then you will certainly enjoy the exercises as much I did because they are direct walkthroughs of how to complete each exercise step by step. Seriously, I have to give my props to offsec because they definitely put the time and energy to make it easy and clear to understand the material. If you get stuck or are having issues with your exercises remember to check the offsec forum because there may be a chance that other students could be having the same issues as well.
+For the first few days I will admit the pdf can be dry with the content provided but if you watch the videos with it can be very enjoyable. The exercises were super fun as well and when you do them document them as well. When I finished the videos and manual, I went through some of the sections that I felt weak on to hone my skills on them. For instance, I went through the buffer overflow section many times just to understand the process of it. If you are just starting out then you will certainly enjoy the exercises as much I did because they are direct walkthroughs of how to complete each exercise step by step. Seriously, I have to give my props to Offsec because they definitely put the time and energy to make it easy and clear to understand the material. If you get stuck or are having issues with your exercises remember to check the Offsec forum because there may be a chance that other students could be having the same issues as well.
 
-As an extra bonus offsec allows you to get extra points if you document your walkthrough of exploiting 10 systems and all of the exercises. The max score you can get for doing this is 5 points depending on how well you documented your exercises and 10 lab boxes.  
+As an extra bonus Offsec allows you to get extra points if you document your walkthrough of exploiting 10 systems and all of the exercises. The max score you can get for doing this is 5 points depending on how well you documented your exercises and 10 lab boxes.  
 I did the documentation for this to obtain the extra 5 points since it could come in handy but also it is a great way to improve your documentation skills. This is extremely important because you will have to write a report at the end of your OSCP exam as well. The lab report took me a total of 25 hours (Over 5 Days) to document. 
 
 ### PWK Lab Network:
 
 Now comes the lab network! This part of the course is the best part in my opinion and I got extremely addicted to it. Over 50 lab machines in 3 separate networks (Public, IT, Dev, and Admin) that you get to hack…let the fun begin! I spent a total of 127 hours in the PWK Lab network and I was able to pwn the entire lab network in 28 days. The labs are super addicting for sure because each box has its own range of difficulty that can be extremely easy to the point where you can get extremely frustrated. I remember owning 17 boxes in 14 hours for one day and then getting stuck on a system in the admin network for 3 days straight. 
 
-Each machine will test your ability to from understanding the lessons taught from the course content but even your research ability as well. This is where you get to build your own methodology when you attack these machines and remember everyone has their own different methodology. In addition, your ability to google-fu will help you tremendously here to identify new techniques, tools, understanding services, and learning more about the operating systems itself. After you own a machine make sure you document everything you did to obtain a shell or even how you priv esc to obtain a full shell. You will realize that there is not just one way to own a machine as each machine in the PWK can have multiple attack vectors. 
+Each machine will test your ability to from understanding the lessons taught from the course content but even your research ability as well. This is where you get to build your own methodology when you attack these machines and remember everyone has their own different methodology. In addition, your ability to google-fu will help you tremendously here to identify new techniques, tools, understanding services, and learning more about the operating systems itself. After you own a machine make sure you document everything you did to obtain a shell or even how you priv esc to obtain a full shell. You will realize that there is not just one way to own a machine as each machine in PWK can have multiple attack vectors. 
 
 Things to keep in mind when you are attempting the lab network: 
 
@@ -129,7 +129,7 @@ Definitely take some time to read it because it does help you prepare mentally b
 
 During my preparation I started gathering my cheatsheets, tools, exploits, and prepping my notes ahead of time making it easy instead of me scrambling to find them during my exam. Once you have everything prepped make sure you make a backup of your kali system and also create snapshots in case you need to revert. 
 
-Another tip I will also mention is take some time to draft your exam report. Even if you pass or fail it is good to have it already set up since you are not wasting more time creating it during the 24 hours given from offsec to submit the report to them. 
+Another tip I will also mention is take some time to draft your exam report. Even if you pass or fail it is good to have it already set up since you are not wasting more time creating it during the 24 hours given from Offsec to submit the report to them. 
 For the proctor part of your exam you can use your laptop for your webcam! Make sure that it works and that it is also not in the way of your desk area when you are taking the exam. Plan your attack strategy and think of how you are going to attack each target in your exam. 
 
 ### 3 days from the OSCP Exam: 
@@ -173,7 +173,7 @@ No matter what happens never give up! If you are stuck or are having issues take
 
 I certainly hope you enjoyed reading my exeperience with OSCP. I know someone is going too see some typos in here but in the end we are all not perfect so :D. Not to mention I covered a lot of things but that is what I do in general really. DETAILS DETAILS DETAILS!
 
-If you wish to find me, I am usually attending security conference for fun to learn more about InfoSec from the community or competing in CTF’s for fun as well! You can find me on Netsecfocus and on Twitter as well. Thank you again for reading this and I certainly hope that you enjoyed it 😊. 
+If you wish to find me, I am usually attending security conference for fun to learn more about InfoSec from the community or competing in CTF’s for fun as well! You can find me on NetSecfocus and on Twitter as well. Thank you again for reading this and I certainly hope that you enjoyed it 😊. 
 
 
 -Tjnull
