@@ -44,7 +44,7 @@ author: tjnull
 For the past 4 years of my life I had one goal: Pass OSCP on my first try. I started by reviewing the course syllabus and I realized there were some things that I did not know, which made me nervous to start the course. So, I went through a variety of resources until I thought I was ready to begin. This guide contains those resources and my advice to prepare for your adventure to take the PWK/OSCP! 
 
 For those of you that would like to know about my journey when I took the course and exam, you can find my earlier post here: 
-https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html 
+[https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html](https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html)
 
 # Dedication: 
 A big shout out goes to abatchy! Without his guide I would have never started exploring for other resources. Thank you for creating your original guide: 
