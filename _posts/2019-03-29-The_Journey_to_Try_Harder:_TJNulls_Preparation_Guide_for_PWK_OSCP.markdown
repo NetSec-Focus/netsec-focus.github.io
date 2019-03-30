@@ -6,7 +6,6 @@ categories: OSCP
 tags: [OSCP, Kali]
 author: tjnull
 ---
-# The Journey to Try Harder: TJNull’s Preparation Guide for PWK/OSCP
 
 ### Table of Contents: 
 - [Overview](#overview)
