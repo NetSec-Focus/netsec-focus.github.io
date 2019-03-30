@@ -118,7 +118,7 @@ Explainshell:
 Awesome resource that parses a variety of man pages from Ubuntu Manage Repository. It breaks down the commands you are using, but it is best to refer to the man pages if you have any questions: . 
 * https://www.explainshell.com/ 
 
-![alt-text](https://github.com/tjnull/Orginal-Posts/blob/master/2019-03-29-The_Journey_to_Try_Harder:_TJNulls_Preparation_Guide_for_PWK/image.png)
+![alt-text](https://github.com/NetSec-Focus/netsec-focus.github.io/blob/master/assets/img/posts/TJNulls_Preparation_Guide_for_PWK/image.png)
 
 Hands on challenge to get comfortable with Linux: 
 * Overthewire Bandit: https://overthewire.org/wargames/bandit/ 
@@ -599,7 +599,7 @@ If you want to access to their retired machines you will have to get VIP access.
 
 With that being said I created a list of all of boxes that I did in Hackthebox that I thought were OSCP Like. You can find them here and also check out IppSec playlist he created from the list I recommended to start watching! 
 
-![alt-text](https://github.com/tjnull/Orginal-Posts/blob/master/2019-03-29-The_Journey_to_Try_Harder:_TJNulls_Preparation_Guide_for_PWK/hackthebox.png)
+![alt-text](https://github.com/NetSec-Focus/netsec-focus.github.io/blob/master/assets/img/posts/TJNulls_Preparation_Guide_for_PWK/hackthebox.png)
 
 I will continue to be updating this list in the future, and if you would like to keep it around you can find it here and on NetSecFocus: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159 
 
@@ -611,7 +611,7 @@ I want to give a huge thanks to ch4p and g0blin for starting Hackthebox! I am gl
 Just like Hackthebox, except you have to download the vulnerable machines and run them on your local system. You will need VMware or VirtualBox (I recommend VMware workstation) to run these vulnerable systems. Please make sure that you are running these vulnerable systems on an isolated network and not on a public network.  
 Thanks to g0tmi1k and his team for hosting this site and to the creators who submit these vulnerable machines. I have also created a list of vulnhub machines that I have found to be OSCP-Like as well. You can find them here and on NetSecFocus:
 
-![alt-text](https://github.com/tjnull/Orginal-Posts/blob/master/2019-03-29-The_Journey_to_Try_Harder:_TJNulls_Preparation_Guide_for_PWK/vulnhub.png)
+![alt-text](https://github.com/NetSec-Focus/netsec-focus.github.io/blob/tjs_playground/assets/img/posts/TJNulls_Preparation_Guide_for_PWK/vulnhub.png)
 
 I will continue to update this list and if you would like a copy for review you can certainly find it here: 
 https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0 
