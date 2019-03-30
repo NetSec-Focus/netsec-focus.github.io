@@ -276,7 +276,8 @@ Shellcodes: No Result
 
 ```searchsploit -x /usr/share/exploitdb/exploits/windows/remote/43970.rb```: The -x command switch allows you to examine the exploit code or information about the exploit. You can also upload nmap xml files to Searchsploit so it can find available exploits that match your target. 
 
-``` root@kali:~# searchsploit -x /usr/share/exploitdb/exploits/windows/remote/43970.rb
+``` 
+root@kali:~# searchsploit -x /usr/share/exploitdb/exploits/windows/remote/43970.rb
 
 Snippet of the exploit: 
 ##
