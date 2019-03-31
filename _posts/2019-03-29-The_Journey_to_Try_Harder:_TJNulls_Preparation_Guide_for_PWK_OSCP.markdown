@@ -43,7 +43,7 @@ author: tjnull
 For the past 4 years of my life I had one goal: Pass OSCP on my first try. I started by reviewing the course syllabus and I realized there were some things that I did not know, which made me nervous to start the course. So, I went through a variety of resources until I thought I was ready to begin. This guide contains those resources and my advice to prepare for your adventure to take the PWK/OSCP! 
 
 For those of you that would like to know about my journey when I took the course and exam, you can find my earlier post here: 
-[https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html(https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html)
+[https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html](https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html)
 
 # Dedication: 
 A big shout out goes to abatchy! Without his guide I would have never started exploring for other resources. Thank you for creating your original guide: 
@@ -54,6 +54,8 @@ I also want to thank the following people for taking the time to read this guide
 * [Tunny Traffic aka VCSEC. A moderator at Netsec Focus](https://twitter.com/TunnyTraffic)
 * [G0t Mi1k](https://twitter.com/g0tmi1k)
 * The team at [Offensive Security](https://twitter.com/offsectraining)
+
+This guide has been approved by Offensive Security!
 
 # A Word of Warning!:
 Do not expect these resources to be the main thing you use for obtaining OSCP. When you are ready to take the course, you should expect the following: 
@@ -115,7 +117,7 @@ A huge guide to learn about a variety of different things in Linux. All the less
 
 Explainshell: 
 Awesome resource that parses a variety of man pages from Ubuntu Manage Repository. It breaks down the commands you are using, but it is best to refer to the man pages if you have any questions: . 
-* https://www.explainshell.com/ 
+* [https://www.explainshell.com/](https://www.explainshell.com/)
 
 ![alt-text](/assets/img/posts/TJNulls_Preparation_Guide_for_PWK/image.png)
 
@@ -366,7 +368,7 @@ Windows Privilege Escalation Tools:
 [https://github.com/411Hall/JAWS/commits?author=411Hall](https://github.com/411Hall/JAWS/commits?author=411Hall) 
 
 * Windows Exploit Suggester (Created by GDSSecurity): A python script that compares target patch against Microsoft vulnerability database to detect any missing patches on the target.
-[https://github.com/GDSSecurity/Windows-Exploit-Suggester] (https://github.com/GDSSecurity/Windows-Exploit-Suggester)
+[https://github.com/GDSSecurity/Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 
 * Windows Exploit Suggester Next Generation: [https://github.com/bitsadmin/wesng](https://github.com/bitsadmin/wesng)
 
@@ -374,7 +376,7 @@ Windows Privilege Escalation Tools:
 [https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock)
 
 * Other Resources for Windows Privilege Escalation Techniques: 
-[https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194](https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194)
+[https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194(https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194)
 
 Linux Privilege Escalation Guides: 
 The only guide I probably ever used to help me understand privilege escalation techniques in Linux systems was from g0tmi1k post. This blog is a must that everyone should have for preparing for the OSCP in my opinion. You can find his guide here: 
@@ -513,10 +515,10 @@ Depending on your scope, some of the machines may not be directly accessible. Th
 * 0xdf hacks stuff. Pivoting and Tunneling: [https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html](https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html)
 
 Tools to help you with Port Forwarding and Pivoting: 
-* Proxychains: https://github.com/haad/proxychains 
-* Proxychains-ng: https://github.com/rofl0r/proxychains-ng 
-* SSHuttle (Totally Recommend learning this): https://github.com/sshuttle/sshuttle 
-* SSHuttle Documentation: https://sshuttle.readthedocs.io/en/stable/ 
+* Proxychains: [https://github.com/haad/proxychains](https://github.com/haad/proxychains)
+* Proxychains-ng: [https://github.com/rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+* SSHuttle (Totally Recommend learning this): [https://github.com/sshuttle/sshuttle](https://github.com/sshuttle/sshuttle)
+* SSHuttle Documentation: [https://sshuttle.readthedocs.io/en/stable/](https://sshuttle.readthedocs.io/en/stable/)
 
 Vulnerable systems to practice pivoting:
 * Wintermute: [https://www.vulnhub.com/entry/wintermute-1,239/](https://www.vulnhub.com/entry/wintermute-1,239/)
