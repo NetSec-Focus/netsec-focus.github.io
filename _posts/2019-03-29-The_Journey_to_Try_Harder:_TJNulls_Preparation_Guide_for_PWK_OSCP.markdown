@@ -43,7 +43,7 @@ author: tjnull
 For the past 4 years of my life I had one goal: Pass OSCP on my first try. I started by reviewing the course syllabus and I realized there were some things that I did not know, which made me nervous to start the course. So, I went through a variety of resources until I thought I was ready to begin. This guide contains those resources and my advice to prepare for your adventure to take the PWK/OSCP! 
 
 For those of you that would like to know about my journey when I took the course and exam, you can find my earlier post here: 
-[https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html](https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html)
+[https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html(https://www.netsecfocus.com/oscp/review/2019/01/29/An_Adventure_to_Try_Harder_Tjnulls_OSCP_Journey.html)
 
 # Dedication: 
 A big shout out goes to abatchy! Without his guide I would have never started exploring for other resources. Thank you for creating your original guide: 
@@ -77,7 +77,7 @@ Do not forget to take breaks and spend time away from the electronics. Trust me 
 Course Syllabus: 
 
 The 2nd most important resource that I used to help me prepare for the course:
-[https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf] (https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
+[https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
 
 From the syllabus I will breakdown each section by providing you the resources I used to prepare for the course. Once I finish going through the syllabus, I will also be providing some extra resources that came in handy. You don’t need to use this guide in order; feel free to jump around as it suits you. 
 
@@ -387,7 +387,7 @@ GTFOBins (I have to thank Ippsec for sharing this with me): Contains a curated l
 LinEnum: A great Linux privilege escalation checker that is still maintained by the guys at rebootuser.com. You can find there tool here: 
 [https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)
 
-* Linux Exploit Suggester 2:[https://github.com/jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) 
+* Linux Exploit Suggester 2: [https://github.com/jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) 
 
 One thing that I will mention is if you want to practice your Linux privilege escalation, I highly recommend you take a look at Lin.Security vulnerable box created by in.security! The box was designed to help people understand how certain applications and service that are misconfigured can be easily abused by an attacker. This box really helped me improved my privilege escalation skills and techniques on Linux systems. 
 
