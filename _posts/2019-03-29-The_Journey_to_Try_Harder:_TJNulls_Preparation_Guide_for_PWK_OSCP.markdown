@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Journey to Try Harder: TJNull’s Preparation Guide for PWK/OSCP"
+title:  "The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP"
 date:   2019-03-29
 categories: OSCP
 tags: [OSCP, Kali]
@@ -340,6 +340,8 @@ One tool that I also found interesting to transfer files on windows systems is u
 You can find examples on how to use the tool here: 
 [https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/bitsadmin-examples](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/bitsadmin-examples) 
 
+Another tool you can check out is [Impacket](https://github.com/SecureAuthCorp/impacket). This tool contains a variety of programming classes that you can use to interact with target networks to parse raw data or you can be able to use their scripts to transfer files to or from your target host.
+
 Also check out python modules like these: 
 * ```Python -m SimpleHTTPServer 80```: Spins up a webserver in the directory you are located on port 80. 
 * ```Python3 -m SimpleHTTPServer 80```: Spins up a python version 3.X web server in the directory you are located on port 80.
@@ -426,7 +428,7 @@ Bugcrowd University has a webinar that Jason Haddix created explaining about bur
 SQL Injection Tools: 
 I would not recommend using these tools until you have a clear understaning about SQL Databases and how a SQL Injection works. These tools below make it easy to automate the process for conducting a SQL Injection but it is possible that they can causes issues to a targets SQL Database. Here are a list of tools that I have played with to get a better understanding of how you can automate SQL Injections:
 
-* vSQLmap: [https://github.com/sqlmapproject/sqlmap/wiki/Usag](https://github.com/sqlmapproject/sqlmap/wiki/Usage)
+* SQLmap: [https://github.com/sqlmapproject/sqlmap/wiki/Usag](https://github.com/sqlmapproject/sqlmap/wiki/Usage)
 * NoSQLMap: [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)
 * SQLNinja: [http://sqlninja.sourceforge.net/](http://sqlninja.sourceforge.net/)
 
