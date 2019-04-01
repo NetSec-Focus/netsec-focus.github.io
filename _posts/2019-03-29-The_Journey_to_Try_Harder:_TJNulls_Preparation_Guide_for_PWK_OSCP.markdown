@@ -409,7 +409,8 @@ OWASP:[https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)](https://www.o
 
 * SQL Injections: 
 OWASP: [https://www.owasp.org/index.php/SQL_Injection](https://www.owasp.org/index.php/SQL_Injection)
-Pentest Monkey SQL Cheat Sheets: [http://pentestmonkey.net/category/cheat-sheet/sql-injection](http://pentestmonkey.net/category/cheat-sheet/sql-injection)
+
+* Pentest Monkey SQL Cheat Sheets: [http://pentestmonkey.net/category/cheat-sheet/sql-injection](http://pentestmonkey.net/category/cheat-sheet/sql-injection)
 
 * File Inclusion Vulnerabilities.
 [https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/](https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/)
