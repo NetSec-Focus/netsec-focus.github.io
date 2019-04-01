@@ -405,7 +405,7 @@ If you need some information on how a Client Side Attack works check out this po
 This section is the one I spent most of time preparing for PWK and OSCP. In this section you need to understand the following web attacks:
 
 * cross-site scripting (XSS): 
-OWASP: [https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+OWASP:[https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
 * SQL Injections: 
 OWASP: [https://www.owasp.org/index.php/SQL_Injection](https://www.owasp.org/index.php/SQL_Injection)
