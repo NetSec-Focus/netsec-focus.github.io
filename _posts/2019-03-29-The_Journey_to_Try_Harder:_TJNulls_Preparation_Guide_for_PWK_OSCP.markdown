@@ -344,7 +344,7 @@ Another tool you can check out is [Impacket](https://github.com/SecureAuthCorp/i
 
 Also check out python modules like these: 
 * ```Python -m SimpleHTTPServer 80```: Spins up a webserver in the directory you are located on port 80. 
-* ```Python3 -m SimpleHTTPServer 80```: Spins up a python version 3.X web server in the directory you are located on port 80.
+* ```Python3 -m http.server 80```: Spins up a python version 3.X web server in the directory you are located on port 80. You will need to install the http.server using the following command: ```pip install http.server```
 * ```Python -m pyftpdlib -p 21 -w```: spins up a FTP server in the directory you are located on port 21 and it allows anonymous login access. 
 * ```Python3 -m pyftpdlib -p 21 -w```: spins up a Python 3.X FTP server in the directory you are located on port 21 and it allows anonymous login access. 
 
