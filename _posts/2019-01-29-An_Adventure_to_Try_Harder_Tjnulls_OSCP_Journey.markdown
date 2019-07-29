@@ -12,8 +12,6 @@ Before I start discussing about my journey, I have a few people that I want to d
 
 First, I want to dedicate this post to my parents and my sisters. Thank you for giving me the time to focus on this and also to prepare for this journey. I know during my journey I did not get to spend much time with you since I was pretty much on the computer every single day just prepping for this. I cannot thank you enough for supporting me and to keep pushing me to follow my dream. I will always be here for you. 
 
-Second, I want to dedicate this post to my girlfriend. Thank you for being supportive and for letting me rant about my issues or when I got super happy to get a shell on a machine. I know I sacrificed a lot of time where we could have gone on dates or to be with each other but you gave the space and time I needed to complete this. I love you very much and this journey is only just the beginning. 
-
 Lastly, I want to thank the InfoSec community. A lot of you reached out to me in so many ways to check up on me and to support me through this journey. I know there were times where I even ranted to you about my journey and you were there to comfort me. I could list every single person that has reached out to me during this journey and this post would just be endless! Thank you for inspiring and also motivating me to learn more. I hope that I can always help someone in this field to learn something and be able to provide support when they are need. 
 
 You know who you are and you should give your self a pat on the back :D!
