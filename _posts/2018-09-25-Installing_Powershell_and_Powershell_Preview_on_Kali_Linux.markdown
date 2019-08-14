@@ -11,7 +11,6 @@ author: tjnull
 # Table of Contents
 
 - [Introduction](#Introduction)
-- [Changelog](#changelog)
 - [Installing Powershell](#Installing-Powershell)
 - [Changelog](#changelog)
 - [Conclusion](#Conclusion)
