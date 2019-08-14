@@ -1,13 +1,24 @@
 ---
 layout: post
-title:  "Installing Powershell and Powershell Preview on Kali Linux 2018.3"
-date:   2018-09-25
+title:  "Installing Powershell and Powershell Preview on Kali Linux"
+date:   2018-09-25 (Updated 2019-08-14)
 categories: Infosec Tools
 tags: [powershell, posh, kali]
 author: tjnull
----
 
-A few months ago, Kali Linux released an article about how you can now install PowerShell on Kali Linux. Here is the link and instructions:
+# Table of Contents
+
+-[Introduction](#Introduction)
+-[Changelog](#changelog)
+-[Installing Powershell](#Installing-Powershell)
+-[Changelog](#changelog)
+-[Conclusion](#Conclusion)
+-[References](#References)
+
+---
+# Introduction:
+
+A long time ago, Kali Linux released an article about how you can now install PowerShell on Kali Linux. Here is the link and instructions:
 
 [https://www.kali.org/tutorials/installing-PowerShell-on-kali-linux](/https://www.kali.org/tutorials/installing-PowerShell-on-kali-linux/)
 
@@ -195,8 +206,9 @@ Type 'help' to get help.
 PS /root> 
 ```
 
+# Changelog 
 
-### Update September 16 2018: 
+### September 16 2018: 
 
  
 The PowerShell team on GitHub was able to release a new version of PowerShell. Below are the versions that currently work in Kali Linux: 
@@ -251,15 +263,34 @@ PS /root>
 
 What I also found interesting is you can have PowerShell and PowerShell-preview running on the system :D
 
+### March 28 2019
 
-### Conclusion:
+Powershell version (powershell_6.2.0-1.deb 28-Mar-2019 19:05 57864528) works fine in Kali Linux. No changes were made to the installation guide. 
+
+### May 21 2019
+
+Powershell Version (powershell_6.2.1-1.deb 21-May-2019 18:03 57853712) works fine in Kali Linux. No changes were made to the installation guide.
+
+### May 30 2019 
+
+Powershell-Preview version: (powershell-preview_7.0.0-preview.1-1.deb 30-May-2019 21:29 53267226) works in Kali Linux. There are a few cmdlets that need to be tweaked. Example Update-Help does not pull any updates for the powershell commands. 
+
+### August 14 2019
+
+Powershell-Preview: (powershell-preview_7.0.0-preview.2-1.deb 17-Jul-2019 20:56 54033798) works in Kali Linux. There are still a few cmdlets that need to be tweaked and updated.
+
+Will be working with the Kali Linux team on making an app image that will be fully installed on Kali Linux in the future :D 
+
+### 
+
+# Conclusion:
 
 I really want to thank the PowerShell team and the guys at Kali for getting this issue fixed in a quick manner. I hope you have enjoyed this post and will enjoy testing PowerShell on Kali Linux :)
 
 If you have any questions or issues trying to install PowerShell on Kali please let me know. You can find me on twitter ([@TJ_Null](https://twitter.com/tj_null)) and in the NetSec Focus community platform at [https://mm.netsecfocus.com/join/](https://mm.netsecfocus.com/join/)
 
 
-### References
+# References
 
 GitHub Issue: [https://github.com/PowerShell/PowerShell/issues/7719](https://github.com/PowerShell/PowerShell/issues/7719)
 
