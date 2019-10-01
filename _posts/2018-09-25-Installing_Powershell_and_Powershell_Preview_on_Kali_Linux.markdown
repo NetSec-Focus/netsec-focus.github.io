@@ -291,7 +291,7 @@ apt install powershell
 apt install powershell-preview. 
 ```
 
-Kali will do the rest for you as there is no need for manual installation (Unless you want to!). I want to give a huge shout out to raphaël hertzog and the Kali Linux team as we were able to finally get ported and working on Kali Linux repos! :D
+Kali will do the rest for you as there is no need for manual installation (Unless you want to!). I want to give a huge shout out to raphaël hertzog and the Kali Linux team as we were able to finally get it ported and working on Kali Linux repos! :D
 
 Twitter Proof: https://twitter.com/kalilinux/status/1170069546012745728
 
