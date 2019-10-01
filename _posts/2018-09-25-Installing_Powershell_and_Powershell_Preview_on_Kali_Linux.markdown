@@ -281,7 +281,20 @@ Powershell-Preview: (powershell-preview_7.0.0-preview.2-1.deb 17-Jul-2019 20:56 
 
 Will be working with the Kali Linux team on making an app image that will be fully installed on Kali Linux in the future :D 
 
-### 
+### September 6 2019
+
+Powershell and Powershell Preview can now be installed on Kali through the Kali Linux repository! To install powershell and powershell preview on Kali Linux you will need to type the following commands: 
+
+```bash
+apt install powershell
+
+apt install powershell-preview. 
+```
+
+Kali will do the rest for you as there is no need for manual installation (Unless you want to!). I want to give a huge shout out to raphaël hertzog and the Kali Linux team as we were able to finally get ported and working on Kali Linux repos! :D
+
+Twitter Proof: https://twitter.com/kalilinux/status/1170069546012745728
+
 
 # Conclusion:
 
