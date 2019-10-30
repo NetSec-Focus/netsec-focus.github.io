@@ -594,7 +594,7 @@ I know some of you are reading this are probably skeptical on why I added thisâ€
 
 Also do not be scared to compete in a CTF if it is your first time! Everyone has to start somewhere in their journey you just have to keep pushing forward. So, go out there and find some CTFs whether they are local to you or online make some time and have confidence in doing them. 
 
-If you cannot find any local CTFs check out [CTFTime](www.CTFTime.org) for online competitions that you can participate in. 
+If you cannot find any local CTFs check out [CTFTime](https://www.CTFTime.org) for online competitions that you can participate in. 
 A lot of the cyber competitions in the past few years really helped me build my skills and I still go out once in awhile to find a CTF to compete in for fun ðŸ˜Š.  
 
 # Bug Bounty Programs:
