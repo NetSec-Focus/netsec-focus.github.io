@@ -650,9 +650,6 @@ NetSecFocus Learning Resources:
 * [https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit#gid=937533738](https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit#gid=937533738)
 
 #### Books: 
-* Penetration Testing by Georgia Weidman. She also has a Cybrary Class: 
-  [https://nostarch.com/pentesting](https://nostarch.com/pentesting)
-* Cybrary Class: [https://www.cybrary.it/course/advanced-penetration-testing/](https://www.cybrary.it/course/advanced-penetration-testing/)
 * Kali Linux Revealed: [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/)
 * Attacking Network Protocols: [https://nostarch.com/networkprotocols](https://nostarch.com/networkprotocols)
 * Red Team Field Manual: [https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
