@@ -378,7 +378,7 @@ Windows Privilege Escalation Tools:
 [https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock)
 
 * Other Resources for Windows Privilege Escalation Techniques: 
-[https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194(https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194)
+[https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194](https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194)
 
 Linux Privilege Escalation Guides: 
 The only guide I probably ever used to help me understand privilege escalation techniques in Linux systems was from g0tmi1k post. This blog is a must that everyone should have for preparing for the OSCP in my opinion. You can find his guide here: 
@@ -493,13 +493,12 @@ Wordlists:
 ##### Online Password Crackers: 
 I usually went for these first to see if they had the hash cracked in their database. However, don’t use these online crackers as your main tools for everything. Uploading a hash from an engagement can be a huge risk so make sure you use your offline tools to crack those types of hashes. Here is a list of online hash crackers that I found online that you can use to crack hashes: 
 
-* [https://hashkiller.co.uk/Cracker](https://hashkiller.co.uk/Cracker)
+* [https://hashkiller.io](https://hashkiller.io/listmanager)
 * [https://www.cmd5.org/](https://www.cmd5.org/)
 * [https://www.onlinehashcrack.com/](https://www.onlinehashcrack.com/)
 * [https://gpuhash.me/](https://gpuhash.me/)
 * [https://crackstation.net/](https://crackstation.net/)
 * [https://crack.sh/](https://crack.sh/)
-* [https://hash.help/](https://hash.help/)
 * [https://passwordrecovery.io/](https://passwordrecovery.io/)
 * [http://cracker.offensive-security.com/](http://cracker.offensive-security.com/)
 
@@ -534,7 +533,6 @@ Other Resources:
 Metasploit The Penetration Tester’s Guide (A super awesome book to read): [https://nostarch.com/metasploit](https://nostarch.com/metasploit)
 
 Msfvenom Cheat Sheets: 
-* [http://security-geek.in/2016/09/07/msfvenom-cheat-sheet/](http://security-geek.in/2016/09/07/msfvenom-cheat-sheet/)
 * [https://netsec.ws/?p=331](https://netsec.ws/?p=331)
 * [https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom](https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom)
 
@@ -686,9 +684,9 @@ Pentester Academy:
 * [https://411hall.github.io/OSCP-Preparation](https://411hall.github.io/OSCP-Preparation)
 * [https://www.gitbook.com/book/sushant747/total-oscp-guide](https://www.gitbook.com/book/sushant747/total-oscp-guide)
 * [http://0xc0ffee.io/blog/OSCP-Goldmine](http://0xc0ffee.io/blog/OSCP-Goldmine)
-* [https://h4ck.co/oscp-journey-exam-lab-prep-tips/](https://h4ck.co/oscp-journey-exam-lab-prep-tips/)
 * [https://tulpa-security.com/2016/09/11/review-oscp-and-pwk/](https://tulpa-security.com/2016/09/11/review-oscp-and-pwk/)
-* [http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+* [https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+
 Other Links: 
 * [https://practicalpentestlabs.com/](https://practicalpentestlabs.com/)
 * [https://immersivelabs.co.uk/](https://immersivelabs.co.uk/)
