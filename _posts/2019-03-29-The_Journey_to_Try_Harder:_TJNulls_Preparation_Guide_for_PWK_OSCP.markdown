@@ -401,7 +401,6 @@ One thing that I will mention is if you want to practice your Linux privilege es
 # Section 10: Client-Side Attacks
 Running Client-Side Attacks usually require client interaction so it’s good to have an understanding of how this works and also how you can set one up. For instance, check out the Client Side Attack Section in Metasploit Unleashed: [https://www.offensive-security.com/metasploit-unleashed/client-side-attacks/](https://www.offensive-security.com/metasploit-unleashed/client-side-attacks/)
 
-If you need some information on how a Client Side Attack works check out this post on nttsecurity: [https://technical.nttsecurity.com/post/102ej16/what-are-client-side-attacks](https://technical.nttsecurity.com/post/102ej16/what-are-client-side-attack)
 
 # Section 11: Web Application Attacks 
 This section is the one I spent most of time preparing for PWK and OSCP. In this section you need to understand the following web attacks:
