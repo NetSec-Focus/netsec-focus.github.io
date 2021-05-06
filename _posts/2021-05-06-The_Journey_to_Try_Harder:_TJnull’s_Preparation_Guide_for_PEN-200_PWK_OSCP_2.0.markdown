@@ -62,7 +62,7 @@ I also want to thank the following people for taking the time to read and provid
 * [Rey Bango](https://twitter.com/reybango)
 * [VCSEC A moderator at Netsec Focus](https://twitter.com/TunnyTraffic)
 * [G0t Mi1k](https://twitter.com/g0tmi1k)
-*  Andy [ZepherFish](https://twitter.com/ZephrFish?s=20)
+*  Andy [ZephrFish](https://twitter.com/ZephrFish?s=20)
 *  Joe [TheBlindHacker](https://twitter.com/TheBlindHacker)
 * The team at [Offensive Security](https://twitter.com/offsectraining)
 
