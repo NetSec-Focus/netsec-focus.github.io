@@ -985,7 +985,7 @@ For Active Directory preparation I created a Windows Server 2019 and a Windows 1
 - [Orchestrating Automated Lab Creation](https://www.aidanmitchell.uk/orchestrating-the-hacklab-part-1/)
     - Parts [2](https://www.aidanmitchell.uk/orchestrating-the-hacklab-part-2/), [3](https://www.aidanmitchell.uk/orchestrating-the-hacklab-part-3/) [4](https://www.aidanmitchell.uk/orchestrating-the-hacklab-part-4/), [5](https://www.aidanmitchell.uk/orchestrating-the-hacklab-part-5/)
 
-If you are interested in expanding your enviorment and wondering how you can do that I wrote a guide to help you get started on building your own homelab:
+If you are interested in expanding your enviroment and wondering how you can do that I wrote a guide to help you get started on building your own homelab:
 
 - [https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home_Lab.html](https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home_Lab.html)
 
