@@ -249,7 +249,7 @@ PCAP Samples:
 * Malware Traffic Analysis: [https://www.malware-traffic-analysis.net/](https://www.malware-traffic-analysis.net/) 
 * Packettotal (Just like virustotal but for PCAP Analysis): [https://packettotal.com/](https://packettotal.com/)
 
-# Section 5: Bash Scripting:
+# Section 5: Getting Started with Bash Scripting
 
 The bash Guide: A good guide to get you into the bash scripting
 * [https://guide.bash.academy/](https://guide.bash.academy/)
