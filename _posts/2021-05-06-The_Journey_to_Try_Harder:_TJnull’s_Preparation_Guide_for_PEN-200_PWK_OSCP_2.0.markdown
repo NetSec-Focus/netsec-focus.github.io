@@ -210,7 +210,8 @@ Books:
 
 # Section 4: Essential Tools in Kali
 Netcat: The TCP/IP Swiss Army tool. Experiment with this tool and understand what it does because you will be using this almost every day during your course and beyond.
-* SANS Netcat Cheatsheet: [https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf]( https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
+* SANS Netcat Cheatsheet: [https://www.sans.org/posters/netcat-cheat-sheet/](https://www.sans.org/posters/netcat-cheat-sheet/)
+* Netcat Cheatsheet Reference: [https://quickref.me/nc](https://quickref.me/nc)
 
 Ncat: A better version of netcat in my opinion. Supports SSL communication and it is part of Nmap. 
 
