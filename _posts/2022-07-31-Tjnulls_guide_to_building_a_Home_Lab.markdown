@@ -199,6 +199,7 @@ Routers:
 
 - GNS3 ([https://gns3.com/software/download-vm](https://gns3.com/software/download-vm)): A network software emulator that allows you to simulate the network you are trying to build. In addition, you can leverage your existing hardware and you can expand your lab with the OS.
 - dd-wrt ([https://dd-wrt.com/](https://dd-wrt.com/)): Another open source router platform that can provide router functionality and additional services for virtual networks. (Note: It is commonly used on hardware devices that can support it, but it can be ran as a virtual appliance as well.)
+- linux-router ([https://github.com/garywill/linux-router](https://github.com/garywill/linux-router): A linux application that has the ability to make changes to the linux system to be used as a router, hotspot, or a transparent proxy server.
 
 Firewalls:
 
