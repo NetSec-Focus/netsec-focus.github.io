@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2020-09-21
+date:   2022-07-31
 categories: Home Lab
 tags: [Home lab, Infosec]
 author: tjnull
@@ -109,6 +109,8 @@ Raspberry Pi ([https://www.raspberrypi.org/](https://www.raspberrypi.org/)): An 
 Intel NUCs ([https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html)): Do not be fooled by the form factor of these mini PCs as they do pack a punch. This would be a good system if you are looking to save power, reduce noise, and most importantly, save space.
 
 AMD Mini PCs ([https://www.amd.com/en/products/embedded-minipc-solutions](https://www.amd.com/en/products/embedded-minipc-solutions)): AMD also has their own set of small form computers that you can purchase as well. They can be able to run the Ryzen processor chipset as well on some of them.
+
+Minis Forum ([https://store.minisforum.com/](https://store.minisforum.com/)): A place to buy barebone mini PC's depending on use case you need. They have custom options and you can select for your builds and they are very affordable with the selections they have.
 
 Servers:
 
