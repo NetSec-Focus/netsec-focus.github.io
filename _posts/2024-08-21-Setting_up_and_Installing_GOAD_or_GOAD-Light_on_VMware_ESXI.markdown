@@ -37,8 +37,8 @@ This lab environment is intentionally vulnerable. Do not reuse this setup for pr
 
 As of the time of writing, the Orange-Cyberdefense team has not yet merged the contributions from viris and fsacer into the main GOAD project. Their forked versions of GOAD include the vmware_esxi provider, which we’ll be using for deployment. If you want to review and compare the enhancements they’ve made, you can check out their work: 
 
-Viris version of GOAD: https://github.com/viris/GOAD
-Fsacer version of GOAD: https://github.com/fsacer/GOAD
+Viris version of GOAD: [https://github.com/viris/GOAD](https://github.com/viris/GOAD)
+Fsacer version of GOAD: [https://github.com/fsacer/GOAD](https://github.com/fsacer/GOAD)
 
 
 ## Requirements to deploy GOAD:
